@@ -71,7 +71,12 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
 </p>
 
 **Measured and analyzed outputs:**
-- Gate pulses of SCR1 and SCR2
+
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/3960f1a52bf01bcd53fef068a9e13f98f1c8baa6/C-gate%20pulses.png" width="500"><br>
+  <em>Figure: Gate pulses of SCR1 and SCR2</em>
+</p>
+
 - Current through resistor
 - Current through SCR1
 - Voltage across SCR1
