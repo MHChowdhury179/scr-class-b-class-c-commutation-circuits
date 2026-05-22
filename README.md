@@ -102,7 +102,11 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Gate pulses of SCR1 and SCR2 and Current through Resistor1 obtained from Simulink</em>
 </p>
 
-- Comparison between practical and simulated waveforms
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/58e32e5107ad5a906fbc6911d702eb4d6d691ea9/Gate%20pulses%20of%20SCR1%20(Ig1)%20and%20SCR2%20(Ig2)%20and%20Current%20through%20SCR1%20(ISCR1)%20obtained.jpg" width="500"><br>
+  <em>Figure: Gate pulses of SCR1 and SCR2 and Current through SCR1 obtained from Simulink</em>
+</p>
+
 
 ## Tools and Technologies
 - MATLAB/Simulink for circuit modeling and simulation
