@@ -1,4 +1,4 @@
-# Experimental implementation and Simulink analysis of SCR-based Class B and Class C commutation circuits with oscilloscope waveform observation
+# SCR Class B & C Commutation: Experimental & Simulink Analysis
 
 ## Overview
 This project presents the experimental implementation, simulation modeling, and output waveform analysis of SCR-based Class B and Class C commutation circuits.
@@ -13,7 +13,8 @@ This project presents the experimental implementation, simulation modeling, and 
 ## Experiments Covered
 
 ### Experiment 1: Class B Commutation Circuit
-The Class B commutation circuit was practically implemented using an SCR, inductor, capacitor, and resistive load. The circuit output was observed through a laboratory experimental setup, where key waveforms were captured using an oscilloscope. A MATLAB/Simulink model of the same circuit was also developed to verify and compare the experimental results.
+The Class B commutation circuit was practically implemented using an SCR, inductor, capacitor, and resistive load. The circuit output was observed through a laboratory experimental setup, where key waveforms were captured using an oscilloscope. A MATLAB/Simulink model of the same circuit was also developed to verify and compare the experimental results. 
+![image alt] (
 
 **Measured and analyzed outputs:**
 - SCR gate pulse
