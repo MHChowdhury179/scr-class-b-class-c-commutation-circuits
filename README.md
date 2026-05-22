@@ -65,6 +65,11 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Circuit Diagram</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/7c2b0ea44cc310fcc50794a9105f11cb3c536ac9/Experimental%20set-up%20picture%20of%20Class%20C%20commutation..jpg" width="500"><br>
+  <em>Figure: Experimental Setup</em>
+</p>
+
 **Measured and analyzed outputs:**
 - Gate pulses of SCR1 and SCR2
 - Current through resistor
