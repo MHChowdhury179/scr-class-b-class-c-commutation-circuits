@@ -77,7 +77,11 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Gate pulses of SCR1 and SCR2</em>
 </p>
 
-- Current through resistor
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/e1532db445b7c1f8efec39b52ab79b3fdec01cb9/C_IR1.png" width="500"><br>
+  <em>Figure: Current through Resistor1</em>
+</p>
+
 - Current through SCR1
 - Voltage across SCR1
 - Turn-off time behavior
