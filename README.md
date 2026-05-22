@@ -42,8 +42,12 @@ The Class B commutation circuit was practically implemented using an SCR, induct
   <em>Figure: Voltage across SCR </em>
 </p>
 
-- SCR turn-off behavior
-- Comparison between oscilloscope and Simulink waveforms
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/80b94c683be393085f26b25959f57a44028ba5d8/Simulink%20model%20of%20Class%20B%20commutation%20circuit..jpg" width="500"><br>
+  <em>Figure: Simulink Model</em>
+</p>
+
+
 
 ### Experiment 2: Class C Commutation Circuit
 The Class C commutation circuit was experimentally implemented using two SCRs, resistors, and a commutating capacitor. Gate pulses were applied to SCR1 and SCR2 to observe the commutation process. The circuit was also modeled in MATLAB/Simulink, and the simulation outputs were compared with the practical oscilloscope waveforms.
