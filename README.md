@@ -87,7 +87,12 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Current through SCR1</em>
 </p>
 
-- Voltage across SCR1
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/86a6c49c3a47242094148fcb6481beb7c288fa09/C_ET1-1.png" width="500"><br>
+  <em>Figure: Voltage across SCR1</em>
+</p>
+
+- 
 - Turn-off time behavior
 - RC time constant effect on commutation
 - Comparison between practical and simulated waveforms
