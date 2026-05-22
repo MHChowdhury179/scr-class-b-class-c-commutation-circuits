@@ -14,7 +14,7 @@ This project presents the experimental implementation, simulation modeling, and 
 
 ### Experiment 1: Class B Commutation Circuit
 The Class B commutation circuit was practically implemented using an SCR, inductor, capacitor, and resistive load. The circuit output was observed through a laboratory experimental setup, where key waveforms were captured using an oscilloscope. A MATLAB/Simulink model of the same circuit was also developed to verify and compare the experimental results. 
-![image alt] (https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/961f926ce1eaef63b7e00e30d26ddea5a62aa431/Circuit%20diagram%20of%20Class%20B%20commutation..jpg)
+![image alt](https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/961f926ce1eaef63b7e00e30d26ddea5a62aa431/Circuit%20diagram%20of%20Class%20B%20commutation..jpg)
 
 **Measured and analyzed outputs:**
 - SCR gate pulse
