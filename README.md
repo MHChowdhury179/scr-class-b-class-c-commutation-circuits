@@ -10,6 +10,15 @@ This project presents the experimental implementation, simulation modeling, and 
 - Analyzed SCR turn-off behavior and forced commutation characteristics.
 - Compared experimental waveforms with Simulink simulation outputs.
 
+ ## Tools and Technologies
+- MATLAB/Simulink for circuit modeling and simulation
+- Oscilloscope for practical waveform measurement
+- SCR/Thyristor trainer board for hardware implementation
+- Power electronics laboratory setup
+- DC power supply
+- Passive components: resistor, capacitor, and inductor
+- Experimental waveform analysis and simulation result comparison
+
 ## Experiments Covered
 
 ### Experiment 1: Class B Commutation Circuit
@@ -107,28 +116,10 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Gate pulses of SCR1 and SCR2 and Current through SCR1 obtained from Simulink</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/cbe99957a4079d090a9ba663708ec42cecd93bce/Gate%20pulses%20of%20SCR1%20(Ig1)%20and%20SCR2%20(Ig2)%20and%20Voltage%20across%20SCR1%20(ET1)%20obtained.jpg" width="500"><br>
+  <em>Figure: Gate pulses of SCR1 and SCR2 and Voltage across SCR1 obtained from Simulink</em>
+</p>
 
-## Tools and Technologies
-- MATLAB/Simulink for circuit modeling and simulation
-- Oscilloscope for practical waveform measurement
-- SCR/Thyristor trainer board for hardware implementation
-- Power electronics laboratory setup
-- DC power supply
-- Passive components: resistor, capacitor, and inductor
-- Experimental waveform analysis and simulation result comparison
 
-## Repository Structure
-```text
-├── report/
-│   └── class-b-class-c-commutation-report.pdf
-├── simulink-models/
-│   ├── class-b-commutation.slx
-│   └── class-c-commutation.slx
-├── figures/
-│   ├── class-b-circuit-diagram.png
-│   ├── class-b-experimental-setup.png
-│   ├── class-b-waveforms.png
-│   ├── class-c-circuit-diagram.png
-│   ├── class-c-experimental-setup.png
-│   └── class-c-waveforms.png
-└── README.md
+
