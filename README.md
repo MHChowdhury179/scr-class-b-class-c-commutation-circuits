@@ -37,7 +37,11 @@ The Class B commutation circuit was practically implemented using an SCR, induct
   <em>Figure: Inductor/load current waveform </em>
 </p>
 
-- Voltage across SCR
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/1e08b6a69843f9694394f427f88ea4e756655edb/B_VSCR.png" width="500"><br>
+  <em>Figure: Voltage across SCR </em>
+</p>
+
 - SCR turn-off behavior
 - Comparison between oscilloscope and Simulink waveforms
 
