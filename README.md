@@ -47,6 +47,10 @@ The Class B commutation circuit was practically implemented using an SCR, induct
   <em>Figure: Simulink Model</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/2d9c5af121220014fa4c53f21888763ee025f437/Gate%20pulse%20(Ig)%20and%20Load%20current%20(IL)%20obtained%20from%20Simulink%20of%20Class%20B%20commutation..jpg" width="500"><br>
+  <em>Figure: Gate pulse and Load current obtained from Simulink</em>
+</p>
 
 
 ### Experiment 2: Class C Commutation Circuit
