@@ -17,9 +17,16 @@ The Class B commutation circuit was practically implemented using an SCR, induct
 
 <p align="center">
   <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/961f926ce1eaef63b7e00e30d26ddea5a62aa431/Circuit%20diagram%20of%20Class%20B%20commutation..jpg" width="500"/>
-  <br>
+   <br>
   <em>Figure: Circuit Diagram</em>
 </p>
+
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/737b7c31c64cd6ad146efe63647a22a585f7e8c4/Experimental%20set-up%20picture%20of%20Class%20B%20commutation.jpg" width="500"/>
+  <br>
+  <em>Figure: Experimental Setup</em>
+</p>
+
 
 
 
