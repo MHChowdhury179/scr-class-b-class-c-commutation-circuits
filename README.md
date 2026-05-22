@@ -28,7 +28,7 @@ The Class B commutation circuit was practically implemented using an SCR, induct
 
 **Measured and analyzed outputs:**
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="500"><br>
+  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/blob/e04c1b7c30a57ae378659397f13d408f9a3e8916/B_gate%20pulse.png)" width="500"><br>
   <em>Figure: SCR Gate Pulse</em>
 </p>
 
