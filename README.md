@@ -97,7 +97,11 @@ The Class C commutation circuit was experimentally implemented using two SCRs, r
   <em>Figure: Simulink Model of Class C</em>
 </p>
 
-- RC time constant effect on commutation
+<p align="center">
+  <img src="https://github.com/MHChowdhury179/scr-class-b-class-c-commutation-circuits/raw/2b96f29c94d3857fcfcdac53fd7abae6ebd80512/Gate%20pulses%20of%20SCR1%20(Ig1)%20and%20SCR2%20(Ig2)%20and%20Current%20through%20Resistor1%20(IR1)%20obtained.jpg" width="500"><br>
+  <em>Figure: Gate pulses of SCR1 and SCR2 and Current through Resistor1 obtained from Simulink</em>
+</p>
+
 - Comparison between practical and simulated waveforms
 
 ## Tools and Technologies
