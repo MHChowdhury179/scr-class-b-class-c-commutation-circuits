@@ -26,11 +26,12 @@ The Class B commutation circuit was practically implemented using an SCR, induct
   <em>Figure: Experimental Setup</em>
 </p>
 
-
-
-
 **Measured and analyzed outputs:**
-- SCR gate pulse
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="500"><br>
+  <em>Figure: SCR Gate Pulse</em>
+</p>
+
 - Inductor/load current waveform
 - Voltage across SCR
 - SCR turn-off behavior
